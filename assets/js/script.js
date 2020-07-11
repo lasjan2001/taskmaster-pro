@@ -290,3 +290,4 @@ setInterval(function() {
 
 // load tasks for the first time
 loadTasks()
+
